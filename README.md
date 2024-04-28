@@ -1,1 +1,2 @@
 # FASE-3
+Objetivo del Proyecto: El objetivo es desarrollar una aplicación web completa que incluya tanto el frontend como el backend. El frontend debe ser estéticamente agradable y funcional, aunque no es necesario que sea responsivo por el momento. El backend debe ser capaz de manejar operaciones CRUD básicas (Crear, Leer, Actualizar, Eliminar) para al menos un recurso (por ejemplo, usuarios, productos, posts, etc.).
