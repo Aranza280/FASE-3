@@ -1,8 +1,8 @@
 # FASE-3
 Objetivo del Proyecto: El objetivo es desarrollar una aplicación web completa que incluya tanto el frontend como el backend. El frontend debe ser estéticamente agradable y funcional, aunque no es necesario que sea responsivo por el momento. El backend debe ser capaz de manejar operaciones CRUD básicas (Crear, Leer, Actualizar, Eliminar) para al menos un recurso (por ejemplo, usuarios, productos, posts, etc.).
+
 Descripción del proeyecto: El proyecto consiste en crear una aplicación web completa diseñada para facilitar la gestión de recursos a través de un sistema integral. Esta aplicación consta de un frontend estéticamente agradable y funcional. 
+
 Instrucciones para instalar y ejecutar el proyecto: Para comenzar, se requiere tener instalado el entorno de desarrollo integrado Visual Studio, una herramienta ampliamente utilizada en el desarrollo de software. Además, se recomienda descargar e instalar la extensión Live Server, la cual facilita la visualización en tiempo real de los cambios realizados en el código durante el desarrollo de la aplicación web.
-
 Una vez que el entorno de desarrollo esté configurado, el repositorio de GitHub contendrá el archivo principal "index.html", que constituye la página inicial de la aplicación web. Este archivo puede ser descargado desde el repositorio y abierto utilizando Visual Studio. Una vez abierto, se puede acceder a la funcionalidad "Open with Live Server" mediante un clic derecho sobre el archivo index.html. Esta función permite visualizar la página web en un navegador web en tiempo real, lo que facilita el desarrollo y la depuración del código.
-
 Al acceder a la página web mediante Live Server, se encontrará disponible un menú interactivo que presenta una variedad de opciones de comidas para el usuario. Esta interfaz de usuario ha sido diseñada cuidadosamente para garantizar una experiencia agradable y funcional para el usuario final.
